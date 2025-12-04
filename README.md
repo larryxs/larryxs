@@ -3,11 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larryxs&label=Profile%20views&color=0e75b6&style=flat" alt="larryxs" /> </p>
 
 
-
-### I am listening at Spotify🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&redirect=true)
-
 ### My Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/952200956802658324)](https://discord.com/users/952200956802658324)
