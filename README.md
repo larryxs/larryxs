@@ -13,8 +13,6 @@
 <p align="center">
 <a href="https://discord.com/users/952200956802658324" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/larryxs" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/cyleiarin/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://www.instagram.com/made.xl/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 - 🔭 I’m working on **Application Form**
@@ -22,8 +20,6 @@
 - 🌱 I’m learning **German and French for my study**
 
 - 💬 Ask me about **PHP and HTML**
-
-- 📫 How to reach me **contact@ardaunen.com.tr**
 
 
 <h3 align="left">Languages and Tools:</h3>
